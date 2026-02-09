@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "Not Your Kind Of People",
+  "base_artist": "Garbage",
+  "createdAt": "2026-02-09T04:24:51.759067Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Not Your Kind Of People",
+      "artist": "Garbage",
+      "has_synced": true,
+      "path": "select/01_Not_Your_Kind_Of_People_Garbage.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Not Your Kind Of People",
+      "artist": "Garbage",
+      "has_synced": true,
+      "path": "select/02_Not_Your_Kind_Of_People_Garbage.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Not Your Kind of People",
+      "artist": "Garbage",
+      "has_synced": true,
+      "path": "select/03_Not_Your_Kind_of_People_Garbage.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Not Your Kind of People",
+      "artist": "Garbage",
+      "has_synced": true,
+      "path": "select/04_Not_Your_Kind_of_People_Garbage.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Not Your Kind of People",
+      "artist": "Various: Garbage",
+      "has_synced": true,
+      "path": "select/05_Not_Your_Kind_of_People_Various__Garbage.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Not Your Kind Of People",
+      "artist": "Garbage",
+      "has_synced": true,
+      "path": "select/06_Not_Your_Kind_Of_People_Garbage.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "34 | Garbage - Not Your Kind Of People",
+      "artist": "Garbage",
+      "has_synced": false,
+      "path": "select/07_34___Garbage_-_Not_Your_Kind_Of_People_Garbage.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "05 Not Your Kind Of People",
+      "artist": "Garbage",
+      "has_synced": true,
+      "path": "select/08_05_Not_Your_Kind_Of_People_Garbage.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Not Your Kind of People",
+      "artist": "Garbage",
+      "has_synced": false,
+      "path": "select/pl_01_Not_Your_Kind_of_People_Garbage.txt"
+    }
+  ]
+}
